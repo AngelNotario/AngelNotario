@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, me llamo Angel Notario</h1>
+<h1 align="center">Hola 👋, me llamo Angel Notario</h1>
 <h3 align="center">soy un estudiante de Ingeniería en sistemas apasionado</h3>
 
-- 💬 Ask me about **Java**
+- 💬Pregúntame acerca **Java**
 
-- 📫 How to reach me **angelmini640@gmail.com**
+- 📫 Contáctame por aquí: **angelmini640@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
